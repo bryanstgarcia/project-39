@@ -1,3 +1,6 @@
 body {
     background-color: black;
 }
+*, *::before {
+    box-sizing: border-box;
+}
